@@ -56,19 +56,6 @@
     
     
     <entry>
-      <title>内容板块</title>
-      <link href="/2020/07/23/major/"/>
-      <url>/2020/07/23/major/</url>
-      
-        <content type="html"><![CDATA[<h2 id="1-编程思想"><a href="#1-编程思想" class="headerlink" title="1.编程思想"></a>1.编程思想</h2><h2 id="2-高阶函数"><a href="#2-高阶函数" class="headerlink" title="2.高阶函数"></a>2.高阶函数</h2><h2 id="3-函数作为函数的参数来传递的问题的小总结"><a href="#3-函数作为函数的参数来传递的问题的小总结" class="headerlink" title="3.函数作为函数的参数来传递的问题的小总结"></a>3.函数作为函数的参数来传递的问题的小总结</h2><h2 id="4-模块化开发"><a href="#4-模块化开发" class="headerlink" title="4.模块化开发"></a>4.模块化开发</h2><h2 id="5-配置对象"><a href="#5-配置对象" class="headerlink" title="5.配置对象"></a>5.配置对象</h2><h2 id="6-深拷贝"><a href="#6-深拷贝" class="headerlink" title="6.深拷贝"></a>6.深拷贝</h2><h2 id="7-正则表达式"><a href="#7-正则表达式" class="headerlink" title="7.正则表达式"></a>7.正则表达式</h2><h1 id="Ajax学习"><a href="#Ajax学习" class="headerlink" title="Ajax学习"></a>Ajax学习</h1>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>去重算法</title>
       <link href="/2020/07/23/js%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/"/>
       <url>/2020/07/23/js%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/</url>
